@@ -1,9 +1,9 @@
 # Hi there, I'm Faustina Lazarus 👋
 
-🎓 Gold Medalist in M.Tech in Artificial Intelligence & Data Science
-💼 Senior Analyst at Capgemini
-🤖 Passionate about AI, Machine Learning, GEN AI & Quantum Computing
-📍 Mumbai, Maharashtra, India
+- 🎓 Gold Medalist in M.Tech in Artificial Intelligence & Data Science
+- 💼 Senior Analyst at Capgemini
+- 🤖 Passionate about AI, Machine Learning, GEN AI & Quantum Computing
+- 📍 Mumbai, Maharashtra, India
 
 ## 🚀 About Me
 
